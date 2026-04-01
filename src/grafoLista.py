@@ -238,6 +238,8 @@ def main():
     meu_grafo = Grafo()
     
     while True:
+        print("\n" + "="*60)
+        print("ANALISADOR DO SCENÁRIO DE AVIAÇÃO NO BRASIL(ODS 9)")
         print("="*60)
         print(" a) Ler dados do arquivo grafo.txt")
         print(" b) Gravar dados no arquivo grafo.txt")
