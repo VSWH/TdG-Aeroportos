@@ -1,3 +1,6 @@
+# Victor Sung Woo Hong 10425852
+# Mauricio Custódio Vicentini 10426074
+
 import os
 
 class Grafo:
